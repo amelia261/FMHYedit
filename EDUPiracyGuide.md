@@ -842,6 +842,7 @@ https://cari.institute/
 
 # ► Educational Tools
 
+* 🌐 **[Statistics Assignment Help](https://www.statisticsassignmenthelp.com/)** - Do my Statistics Assignment
 * 🌐 **[NCES](https://nces.ed.gov/)** or [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Educational Tools
 * 🌐 **[nanoHUB](https://nanohub.org/)** - Nanotechnology Tools
 * 🌐 **[5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk)** - Grade School Tools
